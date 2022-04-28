@@ -1,8 +1,15 @@
-안녕하세요. 자바 개발자 김영재 입니다.
+## 🙋‍안녕하세요 자바 개발자 김영재 입니다.
 
-저의 공간에 오신걸 환영합니다.
 
-<!---
-newy12/newy12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+## 🛠 다룰줄 아는 기술 스텍 입니다.
+- ### Java , React , Javascript , mysql , mssql , thymeleaf , Springboot 
+- ### spring data jpa , freemarker , nginx , ci/cd , github , TDD , RESTAPi
+- ### Junit5 , mybatis , QueryDSL , spring Security
+
+
+
+
+## 🚜 감사합니다.
