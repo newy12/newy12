@@ -9,7 +9,7 @@
 
  ### Java , React , Javascript , mysql , mssql , thymeleaf , Springboot 
  ### spring data jpa , freemarker , nginx , ci/cd , github , TDD , RESTAPI
- ### Junit5 , mybatis , QueryDSL , spring Security
+ ### Junit5 , mybatis , QueryDSL , spring Security , HTML , CSS
 
 
 
