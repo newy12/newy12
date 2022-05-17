@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=&height=300&section=header&text=trendy-Development%20&fontSize=70)
 <div align="center">
 
-ㅇㅇ
+
 ### 안녕하세요. 
 ### 트렌디한 개발자 김영재 입니다.
 &nbsp; 
