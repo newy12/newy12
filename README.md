@@ -108,7 +108,7 @@
 
 ### 저의 notice을 구경 해주세요!
 
-[노션 주소 링크 입니다.](https://www.notion.so/33c4075dcd9a46e6834a94a2520cc4ad)
+[노션 주소 링크 입니다.](https://cuddly-parrot-e53.notion.site/33c4075dcd9a46e6834a94a2520cc4ad)
 
 &nbsp; 
 &nbsp;
