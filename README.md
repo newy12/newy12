@@ -25,9 +25,6 @@
 &nbsp; 
 &nbsp;
 
-### :electric_plug: 제가 주로 사용하는 언어 현황 입니다. 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newy12&langs_count=8)](https://github.com/newy12/github-readme-stats)
-
 
 ### :wrench:  저의 기술 스택 입니다.
 
