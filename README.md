@@ -13,15 +13,6 @@
 &nbsp;
 &nbsp;
 &nbsp;
-
-
-### :round_pushpin: 저의 github 활동 현황 입니다. 
-
-
-
-![newy12's GitHub stats](https://github-readme-stats.vercel.app/api?username=newy12&show_icons=true&theme=radical)
-
-
 &nbsp; 
 &nbsp;
 
