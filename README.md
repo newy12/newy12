@@ -1,7 +1,7 @@
 <div align=center>
   <h2>:sparkles: Introduce</h2>
   <h3>안녕하세요!</h3>
-  <h3>백엔드 개발자로 서버를 담당하고있는</h3>
+  <h3>백엔드 개발자로 서버쪽 일하고있는</h3>
   <h3>자바 2년차 개발자 입니다.</h3>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <h2>:sparkles: Skill</h2>
