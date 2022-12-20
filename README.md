@@ -1,124 +1,77 @@
+<div align=center>
+  <h2>:sparkles: Introduce</h2>
+  <h3>안녕하세요!</h3>
+  <h3>백엔드 개발자로 서버를 담당하고있는</h3>
+  <h3>자바 2년차 개발자 입니다.</h3>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<h2>:sparkles: Skill</h2>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <h4>:muscle: Server Language</h4>  
+<h4> 
+<img src="https://img.shields.io/badge/Java-DC382D?style=for-the-badge&logo=JAVA&logoColor=white">
+<img src="https://img.shields.io/badge/NODE.JS-DC382D?style=for-the-badge&logo=Node.js&logoColor=white">
+</h4>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <h4>:muscle: Framework</h4> 
+<h4>
+<img src="https://img.shields.io/badge/SPRING-FF4500?style=for-the-badge&logo=SPRING&logoColor=white">
+<img src="https://img.shields.io/badge/SPRINGBOOT-FF4500?style=for-the-badge&logo=SPRINGBOOT&logoColor=white">
+<img src="https://img.shields.io/badge/EXPRESS.JS-FF4500?style=for-the-badge&logo=Express&logoColor=white">
+</h4>  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <h4>:muscle: ORM & SQL Mapper & DB</h4>
+<h4>  
+<img src="https://img.shields.io/badge/JPA-FFCA28?style=for-the-badge&logo=Jpa&logoColor=white">
+<img src="https://img.shields.io/badge/SPRING DATA JPA-FFCA28?style=for-the-badge&logo=SpringDataJpa&logoColor=white">
+<img src="https://img.shields.io/badge/HIBERNATE-FFCA28?style=for-the-badge&logo=Hibernate&logoColor=white">
+<img src="https://img.shields.io/badge/MYBATIS-FFCA28?style=for-the-badge&logo=Mybatis&logoColor=white"> 
+</h4>
+<h4>  
+<img src="https://img.shields.io/badge/MYSQL-FFCA28?style=for-the-badge&logo=Mysql&logoColor=white">
+<img src="https://img.shields.io/badge/MARIADB-FFCA28?style=for-the-badge&logo=MariaDB&logoColor=white">
+<img src="https://img.shields.io/badge/MSSQL-FFCA28?style=for-the-badge&logo=Mssql&logoColor=white">
+<img src="https://img.shields.io/badge/REDIS-FFCA28?style=for-the-badge&logo=Redis&logoColor=white">  
+</h4>  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <h4>:muscle: Security</h4>
+<h4>  
+<img src="https://img.shields.io/badge/SPRING SECURITY-007531?style=for-the-badge&logo=SPRING SECURITY&logoColor=white">
+<img src="https://img.shields.io/badge/JWT-007531?style=for-the-badge&logo=Jwt&logoColor=white">
+</h4>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <h4>:muscle: Test Code</h4>
+<h4>
+  <img src="https://img.shields.io/badge/JUnit4/5-2D4999?style=for-the-badge&logo=JUnit5&logoColor=white">
+  <img src="https://img.shields.io/badge/MOCKITO-2D4999?style=for-the-badge&logo=Mockito&logoColor=white">
+</h4>  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <h4>:muscle: Cloud Server</h4>
+<h4>
+<img src="https://img.shields.io/badge/Amazon AWS-0A66C2?style=for-the-badge&logo=Amazon AWS&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon S3-0A66C2?style=for-the-badge&logo=Amazon S3&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon RDS-0A66C2?style=for-the-badge&logo=Amazon EC2&logoColor=white">  
+<img src="https://img.shields.io/badge/Amazon EC2-0A66C2?style=for-the-badge&logo=JUnit5&logoColor=white">
+</h4>  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <h4>:muscle: DevOps & IDE</h4>
+<h4>  
+<img src="https://img.shields.io/badge/DOCKER-5A0FC8?style=for-the-badge&logo=Docker&logoColor=white">
+<img src="https://img.shields.io/badge/JENKINS-5A0FC8?style=for-the-badge&logo=Jenkins&logoColor=white"> 
+<img src="https://img.shields.io/badge/ATLASSIAN-5A0FC8?style=for-the-badge&logo=Atlassian&logoColor=white">
+<img src="https://img.shields.io/badge/JIRA-5A0FC8?style=for-the-badge&logo=Jira&logoColor=white">  
+</h4>
+<h4>  
+<img src="https://img.shields.io/badge/CONFLUENCE-5A0FC8?style=for-the-badge&logo=Confluence&logoColor=white">  
+<img src="https://img.shields.io/badge/SWAGGER-5A0FC8?style=for-the-badge&logo=Swagger&logoColor=white">
+<img src="https://img.shields.io/badge/INTELLIJ-5A0FC8?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
+<img src="https://img.shields.io/badge/WEBSTORM-5A0FC8?style=for-the-badge&logo=Webstorm&logoColor=white">  
+</h4>
+<h4>  
+<img src="https://img.shields.io/badge/DATAGRIP-5A0FC8?style=for-the-badge&logo=Datagrip&logoColor=white">
+</h4>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=&height=300&section=header&text=trendy-Development%20&fontSize=70)
-<div align="center">
+<h4>:muscle: Top Langs</h4>
 
-
-### 안녕하세요. 
-### 트렌디한 개발자 김영재 입니다.
-&nbsp; 
-&nbsp; 
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp; 
-&nbsp;
-
-
-### :wrench:  저의 기술 스택 입니다.
-
-### Front-End
-
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JAVASCRIPT&logoColor=white">
-<img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=REACT&logoColor=white">
-<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white">
-
-
-&nbsp; 
-&nbsp;
-&nbsp; 
-&nbsp;
-&nbsp; 
-&nbsp;
-&nbsp; 
-&nbsp;
-
-### Back-End
-
-<img src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=SPRING&logoColor=white">
-<img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=for-the-badge&logo=SPRINGBOOT&logoColor=white">
-<img src="https://img.shields.io/badge/-SPRING SECURITY-6DB33F?style=for-the-badge&logo=SPRING SECURITY&logoColor=white">
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=white">
-<img src="https://img.shields.io/badge/jpa-F28D1A?style=for-the-badge&logo=jpa&logoColor=white">
-<img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=white">
-
-&nbsp; 
-&nbsp;
-&nbsp; 
-&nbsp;
-&nbsp; 
-&nbsp;
-&nbsp; 
-&nbsp;
-
-### DevOps
-
-<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/mssql-007396?style=for-the-badge&logo=mssql&logoColor=white">
-<img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
-<img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white">
-<img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=white">
-<img src="https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=OpenSSL&logoColor=white">
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
-
-&nbsp; 
-&nbsp;
-&nbsp; 
-&nbsp;
-&nbsp; 
-&nbsp;
-&nbsp; 
-&nbsp;
-
-### Collaboration & Tools
-
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=">
-<img src="https://img.shields.io/badge/sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=">
-<img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=">
-
-
-&nbsp; 
-&nbsp;
-&nbsp; 
-&nbsp;
-&nbsp; 
-&nbsp;
-&nbsp; 
-&nbsp;
-
-&nbsp; 
-&nbsp;
-&nbsp; 
-&nbsp;
-&nbsp; 
-&nbsp;
-&nbsp; 
-&nbsp;
-
-
-
-&nbsp; 
-&nbsp;
-&nbsp; 
-&nbsp;
-&nbsp; 
-&nbsp;
-&nbsp; 
-&nbsp;
-
-### 시간 내주셔서 감사합니다. 
-
-
-
-
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newy12&langs_count=4)](https://github.com/newy12/github-readme-stats)
 </div>
