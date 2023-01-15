@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/NODE.JS-DC382D?style=for-the-badge&logo=Node.js&logoColor=white">
 </h4>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <h4>:muscle: Framework</h4> 
+  <h4>:muscle: Framework & library</h4> 
 <h4>
 <img src="https://img.shields.io/badge/SPRING-FF4500?style=for-the-badge&logo=SPRING&logoColor=white">
 <img src="https://img.shields.io/badge/SPRINGBOOT-FF4500?style=for-the-badge&logo=SPRINGBOOT&logoColor=white">
