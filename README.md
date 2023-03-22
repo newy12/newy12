@@ -1,7 +1,9 @@
 # Welcome To My GitHub!
 
-https://github-readme-stats.vercel.app/api?username=newy12&&show_icons=true&theme=onedark
-https://github-readme-stats.vercel.app/api/top-langs/?username=newy12&langs_count=6&layout=compact&theme=onedark
+![YoungJae's GitHub stats](https://github-readme-stats.vercel.app/api?username=newy12&&show_icons=true&theme=onedark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newy12&langs_count=6&layout=compact&theme=onedark)
+
+
 
 ## 🙋‍♂️ Personal Info
 - Kim Young Jae
@@ -15,5 +17,8 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=newy12&langs_coun
 - Deployment : <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white"> <img src="https://img.shields.io/badge/AWS/RDS-527FFF?style=flat&logo=AmazonRDS&logoColor=white"> <img src="https://img.shields.io/badge/AWS/S3-569A31?style=flat&logo=AmazonS3&logoColor=white"> <img src="https://img.shields.io/badge/AWS/EC2-FF9900?style=flat&logo=AmazoneC2&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
 - Version Control : <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=GitLab&logoColor=white">
 - Communication : <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"> <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=Confluence&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"> <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white">
-- Blog For Learning : [Here](https://yjkim-dev.tistory.com/)
-<img src="https://s3.orbi.kr/data/file/united/6c8824842456fafc23c7989bf0e5cc20.png" width="500">
+## ✏️ Blog For Learning - [Here](https://yjkim-dev.tistory.com/)
+<a href="https://yjkim-dev.tistory.com/" rel="nofollow">
+<img src="https://i2.wp.com/d15haboszopus7.cloudfront.net/wp-content/uploads/2016/07/14145250/poketmon_0.jpg?resize=800%2C440&ssl=1" alt="image" style="max-width: 100%;">
+</a>
+                                                                                                      
