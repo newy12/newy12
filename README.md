@@ -22,7 +22,7 @@
 <img src="https://i2.wp.com/d15haboszopus7.cloudfront.net/wp-content/uploads/2016/07/14145250/poketmon_0.jpg?resize=800%2C440&ssl=1" alt="image" style="max-width: 100%;">
 </a>
 </br>
-<div align="center">
+<div>
   <div> 
     </br>  
   </div>
