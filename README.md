@@ -21,4 +21,27 @@
 <a href="https://yjkim-dev.tistory.com/" rel="nofollow">
 <img src="https://i2.wp.com/d15haboszopus7.cloudfront.net/wp-content/uploads/2016/07/14145250/poketmon_0.jpg?resize=800%2C440&ssl=1" alt="image" style="max-width: 100%;">
 </a>
+</br>
+<div align="center">
+  <div> 
+    </br>  
+  </div>
+  <a href="https://github.com/newy12" rel="noImage">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white">
+</a> 
+  <a href="https://cuddly-parrot-e53.notion.site/40b6db7060d94467a267136396b953ac" rel="noImage">
+<img src="https://img.shields.io/badge/Notion-3A3A42?style=flat&logo=Notion&logoColor=white">
+</a> 
+  <a href="https://www.facebook.com/people/%EA%B9%80%EC%98%81%EC%9E%AC/100005892694461/" rel="noImage">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=Facebook&logoColor=white">
+</a> 
+   <a href="https://yjkim-dev.tistory.com" rel="noImage">
+<img src="https://img.shields.io/badge/Tistory-263238?style=flat&logo=Tistory&logoColor=white">
+</a> 
+  <a href="https://www.instagram.com/whatthepub_/?fbclid=IwAR34rJXtDHzUQPygNkQdSFDq8StB9k3gxERfsiwvF2EXgEFEGJpDZTMmokc" rel="noImage">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white">
+</a> 
+ 
+</div>
+
                                                                                                       
