@@ -1,7 +1,7 @@
 # Welcome To My GitHub!
 
-![YoungJae's GitHub stats](https://github-readme-stats.vercel.app/api?username=newy12&&show_icons=true&theme=onedark)  
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=newy12
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=newy12&theme=bear&show_icons=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newy12&layout=compact&theme=tokyonight)
 
 
 
