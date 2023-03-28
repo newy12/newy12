@@ -1,7 +1,9 @@
 # Welcome To My GitHub!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=newy12&theme=bear&show_icons=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newy12&layout=compact&theme=tokyonight)
+<a href="https://github.com/newy12">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=newy12&theme=bear&show_icons=true) </a>
+</br>
+<a href="https://github.com/newy12">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newy12&layout=compact&theme=tokyonight)</a>
+  
 
 
 
