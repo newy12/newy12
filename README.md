@@ -31,9 +31,6 @@
   <a href="https://github.com/newy12" rel="noImage">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white">
 </a> 
-  <a href="https://young-dev.notion.site/40b6db7060d94467a267136396b953ac" rel="noImage">
-<img src="https://img.shields.io/badge/Notion-3A3A42?style=flat&logo=Notion&logoColor=white">
-</a> 
   <a href="https://www.facebook.com/people/%EA%B9%80%EC%98%81%EC%9E%AC/100005892694461/" rel="noImage">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=Facebook&logoColor=white">
 </a> 
